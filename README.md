@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Tres238
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning website development at Codecademy
-- 💞️ I’m looking for a mentor 
-- 📫 How to reach me: WhatsApp number:091563
+- I’m looking for a mentor 
 - ⚡ Fun fact: I love learning 
 
 <!---
